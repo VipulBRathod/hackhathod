@@ -1,2 +1,2 @@
-# hackhathod
+# hackhathon
 thia hackthon project
